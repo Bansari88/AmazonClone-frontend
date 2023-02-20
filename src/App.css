@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Amazon Ember";   /*Can be any text*/
+  src: local("AmazonEmber_Rg"),
+    url("./../public/fonts/Ember/AmazonEmber_Rg.ttf") format("truetype");
+}
+
+.App {
+  font-family: "Amazon Ember",Arial,sans-serif;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Amazon Ember";   /*Can be any text*/
+    src: local("AmazonEmber_Rg"),
+    url("./../../public/fonts/Ember/AmazonEmber_Rg.ttf") format("truetype");
+}
+
+.div-verify-email-title-note{
+    color: #0F1111;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}

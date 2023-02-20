@@ -1,0 +1,113 @@
+.cart-main-div {
+    width: 100%;
+    height: 100%;
+    background-color: #EAEDED !important;
+    display: flex;
+    font-family: "Amazon Ember", Arial, sans-serif;
+}
+
+.shopping-cart {
+    background-color: white;
+    height: auto;
+    flex: 0 0 80%;
+    margin: 20px;
+}
+
+.proceed-to-checkout-box {
+    flex: 0 0 16.5%;
+    height: auto;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    margin-top: 20px;
+
+}
+
+.shopping-cart-title {
+    height: 30px;
+    padding: 20px;
+    display: flex;
+}
+
+.shopping-cart-title h1 {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+    flex: 0 0 96.5%;
+}
+
+.cart-divider-length {
+    width: 97%;
+    margin: auto;
+}
+
+.cart-product-list {
+    min-height: 50px;
+}
+
+.cart-product-list table {
+    width: 100%;
+}
+
+.cart-product-list-td {
+    width: 100%;
+}
+
+.product-details-cart-div {
+    display: flex;
+    margin: 20px;
+}
+
+.product-iamge-cart {
+    flex: 0 0 20%;
+}
+
+.product-details-cart {
+    flex: 0 0 70%;
+}
+
+.product-price-cart {
+    flex: 0 0 10%;
+    color: #0F1111 !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.5px;
+    text-align: right;
+}
+
+.cart-product-name {
+    font-size: 18px !important;
+}
+
+.cart-stock-details {
+    color: #007600 !important;
+    font-size: 12px !important;
+    line-height: 16px !important;
+}
+
+.Subtotal-title-cart {
+    font-size: 18px !important;
+    line-height: 24px !important;
+}
+
+.total-price-cart {
+    color: #0F1111 !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    font-weight: 700 !important;
+}
+
+.proceed-to-checkout-inner-box {
+    padding: 20px 20px 0 20px;
+    height: auto;
+}
+
+.price-title-cart {
+    text-align: right !important;
+    font-size: 14px;
+    line-height: 20px;
+    color: #565959 !important;
+    float: right;
+    margin-top: 25px;
+}
